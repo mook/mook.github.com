@@ -1,0 +1,13 @@
+{
+    "public-key": {
+        "alg": "RS256",
+        "algorithm": "RS",
+        "mod": "qDUZ_HNC92pFTcOFqdWXLE6NRus0qHFVgfZH4Hxa3CHWgqXZsEX7k64JrJEOxnJwow8rq9RtQvW8YTvdfU20eJ4wq-lrm1g4G5fOxjgyklqOqHvZSLtZDcvD5_reYd52h8E2Z9EMfYV3mBuXOl3ZE2aMDRc35JCkX3XpMSSYU4SS7gLsIZ0YdhlX51sX1QnXe1yUt5tS7ya3oFsMr-Xch00Y-XgafcZrSHYPrI0Zw6d0si9zTwmX3Ncj5Xk5h1Mgi3DAalyzj7XD6mYFBQrg8lMLjUWWUsS8oDdCSjz7LftyJwrSEJwdrEV1rssf8qb92wReZXUOUeejmENRCbFsRw==",
+        "exp": "AQAB",
+        "version": "2012.08.15",
+        "modulus": "qDUZ/HNC92pFTcOFqdWXLE6NRus0qHFVgfZH4Hxa3CHWgqXZsEX7k64JrJEOxnJwow8rq9RtQvW8YTvdfU20eJ4wq+lrm1g4G5fOxjgyklqOqHvZSLtZDcvD5/reYd52h8E2Z9EMfYV3mBuXOl3ZE2aMDRc35JCkX3XpMSSYU4SS7gLsIZ0YdhlX51sX1QnXe1yUt5tS7ya3oFsMr+Xch00Y+XgafcZrSHYPrI0Zw6d0si9zTwmX3Ncj5Xk5h1Mgi3DAalyzj7XD6mYFBQrg8lMLjUWWUsS8oDdCSjz7LftyJwrSEJwdrEV1rssf8qb92wReZXUOUeejmENRCbFsRw==",
+        "exponent": "AQAB"
+    },
+    "authentication": "chrome://browseridp/content/sign_in.html",
+    "provisioning": "chrome:///browserido/content/provision.html"
+}
